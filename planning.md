@@ -1,15 +1,15 @@
 # Project 1 Planning: The Unofficial Guide
 
-> Write this document before you write any pipeline code.
-> Your spec and architecture diagram are what you'll use to direct AI tools (Claude, Copilot, etc.) to generate your implementation — the more specific they are, the more useful the generated code will be.
-> Update the Retrieval Approach and Chunking Strategy sections if you change your approach during implementation.
-> Update this file before starting any stretch features.
-
----
-
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->\
+**Community Colege -> CSU/UC School Transfer Experiences**
+
+This domain focuses on the experiences and challenges faced by students who transfer from California community colleges to CSU and UC universities. This information is valuable because it includes real student perspectives on transfer preparation, academic expectations, social adjustment, and access to campus resources.
+
+This knowledge is difficult to find through official channels because universities primarily provide information about transfer pathways, admissions requirements, and academic programs. However, they rarely capture the personal experiences, challenges, and advice shared by transfer students themselves.
+
+Much of this information is scattered across online communities such as Reddit, Quora, and other discussion forums. Because the information is spread across many different sources, it can be difficult for prospective transfer students to find, compare, and learn from the experiences of others.
 
 ---
 

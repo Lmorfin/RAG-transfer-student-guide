@@ -1,0 +1,28 @@
+SOURCE: PPIC
+URL: https://www.ppic.org/publication/college-affordability-in-california/
+
+=== ARTICLE ===
+
+Californians value higher education but are concerned about college affordability.
+- A majority (71%) of parents with school-aged children want their children to graduate from a four-year college or higher, and another 21% hope their children will complete community college or career technical training, according to a recent PPIC Statewide Survey. Yet most parents (69%) are concerned about affording college.
+- Overall, college is a good investment as graduates earn higher wages, secure higher-quality jobs, and fare better during recessions. However, outcomes also vary depending on the college, choice of major, and other factors.
+Tuition costs vary across California colleges, and nontuition expenses are substantial.
+- Tuition and fees can range from an average of about $1,300 per year at community colleges to over $50,000 at nonprofit, four-year private institutions.
+- California State University (CSU) has approved a plan that will raise tuition by 6% annually for five years after staying relatively flat for a decade. The University of California’s (UC) Tuition Stability Plan ties annual tuition increases to inflation for each incoming undergraduate class; tuition stays the same until they graduate—for up to six years.
+- Nontuition costs for living off-campus not with family account for 61% of total expenses at UC, 76% at CSU, and 96% at California Community Colleges (CCC), with food and housing making up 41% of overall costs at UC, 56% at CSU, and 72% at CCC. Most aid recipients at CCC (62%) live with family off-campus to reduce costs, while 83% at UC and 44% at CSU live on campus, where costs are similar to off-campus independent living.
+For students at California public colleges, nontuition costs are a large part of overall expenses
+Source: Integrated Postsecondary Education Data System (IPEDS).
+Notes: Data show price of attendance for first-time, full-time undergraduate students in 2023–24. Tuition and fees are published in-state costs. Food and housing, as well as other expenses, are estimated costs of living off-campus not with family. Costs are averaged across institutions with available IPEDS data, using fall 2023 full-time, first-time, degree/certificate-seeking undergraduate enrollment as weights.
+Financial aid helps address college affordability, but attendance costs remain a challenge.
+- Fifty-five percent of first-time, full-time California undergraduates received state or local grants and 48% received federal grants in 2022–23. The shares are higher than the national rates of 35% and 42%, respectively.
+- Among first-time, full-time undergraduates in 2022–23, 66% received financial aid at UC, 82% at CSU, and 79% at CCC. At UC, over 50% of in-state undergrads paid no tuition. More than 56% of CSU undergraduate students had their fees fully covered by aid, and 40% did not pay fees at CCC.
+- Although programs such as the UC Blue and Gold Opportunity Plan can fully cover tuition and fees for low-income students, the remaining costs are still high. Families earning under $30,000 may take out loans or pay about 25% of their annual income toward expenses for attending a UC (20% for CSU, 15% for CCC).
+With financial aid, college costs are lower but can still burden lower-income families in California
+Source: Integrated Postsecondary Education Data System (IPEDS).
+Notes: Data show net price for students awarded Title IV federal financial aid in 2022–23. Net price is the cost of tuition, books, housing, fees, and other associated expenses not covered by grant aid. Net prices are averaged across institutions with available data from IPEDS, using student counts as weights.
+A majority of public four-year college students graduate debt free.
+- Roughly two-thirds of CSU students and UC students graduated debt-free.
+- In 2022–23, 23% of first-time, full-time undergraduates in California held student loans, lower than the national rate of 38%. About a quarter of UC and CSU students, nearly half of students at nonprofit private institutions, and over half at for-profits in the state took out student loans. Only 1% of students at CCC borrowed to attend.
+Efforts are underway to improve college affordability in California.
+- California has recently increased access to financial aid, thanks in part to the state’s universal financial aid application policy. In addition, the California Dream Act Application (CADAA) allows eligible undocumented, mixed-status, and other noncitizen students to access state financial aid. In 2024–25, about 2% of Cal Grant awards were offered to CADAA applicants.
+- State aid programs like Cal Grant B help cover nontuition expenses such as food and housing, while the Middle Class Scholarship now links awards to the total cost of college attendance, not just tuition. Safety net programs like CalFresh and Medi-Cal further reduce costs for low-income students by covering groceries and providing health care. Dual enrollment programs that allow high school students to complete degree or transfer course requirements for free may also help lower costs.
