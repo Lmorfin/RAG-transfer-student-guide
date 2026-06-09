@@ -177,6 +177,6 @@ Much of this information is scattered across online communities such as Reddit, 
 
 **Milestone 3 — Ingestion and chunking:** I created a script to scrape forum posts, and articles, I did do some manual work by formatting documents and made sure they are consistent to ensure chunks stay accurate. I will use Claude to help implement document loading and chunking. I will provide my Chunking Strategy section and ask it to create a chunking function using a chunk size of 500 characters and an overlap of 50 characters. I will verify the output by checking chunk sizes and ensuring information is not unnecessarily split. 
 
-**Milestone 4 — Embedding and retrieval:**
+**Milestone 4 — Embedding and retrieval:** The cleaned and chunked documents produced by the ingestion pipeline will be converted into vector embeddings using the `all-MiniLM-L6-v2` model from the `sentence-transformers` library. These embeddings, along with source metadata, will be stored in `ChromaDB` to enable efficient semantic search. A retrieval function will query the vector database and return the most relevant document chunks to support the RAG system's responses.
 
 **Milestone 5 — Generation and interface:**
