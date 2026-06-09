@@ -110,8 +110,6 @@ Much of this information is scattered across online communities such as Reddit, 
 │  (Python / plain .txt)  │
 │  documents/*.txt        │
 │  • Load raw text files  │
-│  • Extract metadata     │
-│  • Validate documents   │
 └────────────┬────────────┘
              │
              ▼
@@ -127,10 +125,8 @@ Much of this information is scattered across online communities such as Reddit, 
 │  Embedding + Vector     │
 │        Store            │
 │  • all-MiniLM-L6-v2     │
-│    (sentence-transformers)
-│  • ChromaDB             │
-│    persistent vector    │
-│    database             │
+│  (sentence-transformers)│
+│  • ChromaDB             │          
 └────────────┬────────────┘
              │
              ▼
